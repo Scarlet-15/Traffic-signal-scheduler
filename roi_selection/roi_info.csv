@@ -1,0 +1,4 @@
+image_name,roi_id,roi_x,roi_y,roi_width,roi_height
+sample.jpg,1,562,87,205,125
+sample.jpg,2,36,170,212,164
+sample.jpg,3,366,351,120,74
